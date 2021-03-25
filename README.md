@@ -1,6 +1,6 @@
 # Commercial Mobile Game Portfolio (iOS)
 
-A list of my best Commercial Mobile Game Projects me and my business partner worked on. All these games are available only on iOS **US App Store** because of the NDA we've signed with publishers.
+A list of my best Commercial Mobile Game Projects me and my business partner (Hash Sasotri) worked on. All these games are available only on iOS **US App Store** because of the NDA we've signed with publishers.
 
 
 ------
