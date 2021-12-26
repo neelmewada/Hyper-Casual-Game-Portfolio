@@ -32,19 +32,19 @@ US App Store Link: [Click Here](https://apps.apple.com/us/app/plot-in/id14537942
 
 ------
 
-### Clash Fall
-
-<img src="https://user-images.githubusercontent.com/38217867/134506974-cffddd03-fa9d-463f-8501-95d458d1a5c4.png" width="240" />
-
-US App Store Link: [Click Here](https://apps.apple.com/us/app/clash-fall/id1560396095)
-
-------
-
 ### Bikers.io
 
 ![](https://i.ibb.co/tHtwtjV/biker-io.png)
 
 US App Store Link: [Click Here](https://apps.apple.com/us/app/bikers-io/id1501821613)
+
+------
+
+### Clash Fall
+
+<img src="https://user-images.githubusercontent.com/38217867/134506974-cffddd03-fa9d-463f-8501-95d458d1a5c4.png" width="240" />
+
+US App Store Link: [Click Here](https://apps.apple.com/us/app/clash-fall/id1560396095)
 
 ------
 
