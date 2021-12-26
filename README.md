@@ -34,9 +34,17 @@ US App Store Link: [Click Here](https://apps.apple.com/us/app/plot-in/id14537942
 
 ### Bikers.io
 
+US App Store Link: [Click Here](https://apps.apple.com/us/app/bikers-io/id1501821613)
+
 ![](https://i.ibb.co/tHtwtjV/biker-io.png)
 
-US App Store Link: [Click Here](https://apps.apple.com/us/app/bikers-io/id1501821613)
+------
+
+### PotBalls
+
+US App Store Link: [Click Here](https://apps.apple.com/us/app/potballs/id1456452818)
+
+![](https://i.ibb.co/MC6J7W2/potballs.png)
 
 ------
 
@@ -54,13 +62,5 @@ US App Store Link: [Click Here](https://apps.apple.com/us/app/clash-fall/id15603
 
 US App Store Link: [Click Here](https://apps.apple.com/us/app/refill-io/id1447779661)
 
-------
-
-### PotBalls
-
-![](https://i.ibb.co/MC6J7W2/potballs.png)
-
-US App Store Link: [Click Here](https://apps.apple.com/us/app/potballs/id1456452818)
-
-
 <br>
+
