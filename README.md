@@ -24,19 +24,19 @@ US App Store Link: [Click Here](https://apps.apple.com/us/app/train-escape/id150
 
 ------
 
+### Plot In
+
+US App Store Link: [Click Here](https://apps.apple.com/us/app/plot-in/id1453794276)
+
+![](https://i.ibb.co/6JWxNxy/plot-in.png)
+
+------
+
 ### Clash Fall
 
 <img src="https://user-images.githubusercontent.com/38217867/134506974-cffddd03-fa9d-463f-8501-95d458d1a5c4.png" width="240" />
 
 US App Store Link: [Click Here](https://apps.apple.com/us/app/clash-fall/id1560396095)
-
-------
-
-### Plot In
-
-![](https://i.ibb.co/6JWxNxy/plot-in.png)
-
-US App Store Link: [Click Here](https://apps.apple.com/us/app/plot-in/id1453794276)
 
 ------
 
