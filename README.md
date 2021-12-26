@@ -1,6 +1,6 @@
 # Commercial Hyper Casual Game Portfolio (iOS)
 
-A list of my best Commercial Mobile Game Projects me and my business partner (Hash Sasotri) worked on. All these games are available only on either **US** Play Store or **US** App Store.
+A list of my best Commercial Mobile Game Projects I worked on. All these games are available only on either **US** Play Store or **US** App Store.
 
 ------
 
