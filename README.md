@@ -45,8 +45,8 @@ US App Store Link: [Click Here](https://apps.apple.com/us/app/bikers-io/id150182
 US App Store Link: [Click Here](https://apps.apple.com/us/app/potballs/id1456452818)
 
 <div>
-<img style="display:inline-block" src="https://user-images.githubusercontent.com/38217867/147400630-be451e33-f327-47cf-90bb-55ff55a3f970.png" width="240" />
-<img style="display:inline-block" src="https://i.ibb.co/MC6J7W2/potballs.png" width="240" />
+<img style="display:inline-block" src="https://user-images.githubusercontent.com/38217867/147400630-be451e33-f327-47cf-90bb-55ff55a3f970.png" width="360" />
+<img style="display:inline-block" src="https://i.ibb.co/MC6J7W2/potballs.png" width="360" />
 </div>
 
 ------
