@@ -1,4 +1,4 @@
-# Hyper Casual Game Portfolio (LIVE)
+# Hyper Casual Game Portfolio
 
 ### [Click here for my Resume](https://github.com/neelmewada/Hyper-Casual-Game-Portfolio/files/8844773/Neel.s.Resume.pdf)
 
