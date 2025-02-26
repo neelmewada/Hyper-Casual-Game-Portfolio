@@ -1,7 +1,5 @@
 # Hyper Casual Game Portfolio
 
-### [Click here for my Resume](https://github.com/neelmewada/Hyper-Casual-Game-Portfolio/files/8844773/Neel.s.Resume.pdf)
-
 
 A list of some Hyper Casual Game Projects I worked on & tested with publishers. All these games are available only on either **US** Play Store or **US** App Store.
 
